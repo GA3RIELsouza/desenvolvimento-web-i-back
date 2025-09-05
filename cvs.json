@@ -1,0 +1,45 @@
+[
+  {
+    "languages": [
+      {
+        "language": "Português Brasileiro",
+        "level": "Fluente"
+      },
+      {
+        "language": "Inglês",
+        "level": "Avançado"
+      }
+    ],
+    "education": [
+      {
+        "course": "Análise e Desenvolvimento de Sistemas",
+        "institution": "UniSENAI",
+        "completionYear": "2026"
+      }
+    ],
+    "workExperience": [
+      {
+        "position": "Desenvolvedor de Sistemas Júnior",
+        "company": "Berkan Consultoria e Auditoria",
+        "startDate": "2024-11-12",
+        "endDate": "2025-09-04",
+        "description": "Desenvolvimento de sistemas utilizando C#."
+      }
+    ],
+    "professionalSummary": "Bla bla bla...",
+    "personalInfo": {
+      "address": {
+        "zipCode": "89046-420",
+        "street": "Rua Milda Ehmke",
+        "number": "253",
+        "neighborhood": "Velha Central",
+        "city": "Blumenau",
+        "state": "Santa Catarina"
+      },
+      "phoneNumber": "47992910530",
+      "email": "gabrielleandrodesouza11@gmail.com",
+      "fullName": "Gabriel Leandro de Souza"
+    },
+    "id": 1
+  }
+]
